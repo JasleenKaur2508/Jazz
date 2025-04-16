@@ -1,6 +1,3 @@
-
-# to trigger workflow
-
 # Project Title
 SCM File Work
 
@@ -20,4 +17,4 @@ A brief overview of your project, its purpose, and goals.
 ## Usage
 1. Run the project locally:  
    `npm start`
-2. Access the project at `http://localhost:3000` (or the appropriate URL if different
+2. Access the project at `http://localhost:3000` (or the appropriate URL if different).
